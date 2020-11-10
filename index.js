@@ -3,7 +3,7 @@ const
     app = express(),
     PORT = process.env.PORT || 3000,
     TelegramBot = require('node-telegram-bot-api'),
-    token = '1363148524:AAGj3v-7QvXmK3WRNjBkom3RrDp5Ypg6z_k',
+    token = '************************************',
     bot = new TelegramBot(token, { polling: true }),
     START_TEXT = require('./start-text')
 
