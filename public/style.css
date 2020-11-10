@@ -1,0 +1,7 @@
+form, .users {
+    padding: 20px;
+}
+
+button, .users ul {
+    margin-top: 10px;
+}
